@@ -2,12 +2,14 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.arnaubennassar.test</groupId>
     <artifactId>test</artifactId>
+    <artifact>iden3-mobile.aar</artifact>
     <version>1</version>
     <distributionManagement>
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/arnaubennassar/actions-playground</url>
+            <url>https://maven.pkg.github.com/arnaubennassar/gh-actions-playground</url>
         </repository>
     </distributionManagement>
 </project>
+<!-- mvn deploy:deploy-file -Dfile=iden3mobile.aar -Durl=https://maven.pkg.github.com/arnaubennassar/gh-actions-playground -DrepositoryId=github -DrepositoryName="GitHub Pages" -Dfiles=iden3mobile-sources.jar -Dtypes=jar -Dclassifiers=sources,tests -DgroupId=com.arnaubennassar.test -DartifactId=testi3 -Dversion=1 -Dpackaging=aar -->
