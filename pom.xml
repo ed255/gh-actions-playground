@@ -1,0 +1,13 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.arnaubennassar.test</groupId>
+    <artifactId>test</artifactId>
+    <version>1</version>
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>GitHub Packages</name>
+            <url>https://maven.pkg.github.com/arnaubennassar/actions-playground</url>
+        </repository>
+    </distributionManagement>
+</project>
