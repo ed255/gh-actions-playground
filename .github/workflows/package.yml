@@ -6,8 +6,8 @@ jobs:
     publish:
       runs-on: ubuntu-latest
       steps:
-      - uses: actions/checkout@v2
-      - run: git fetch --depth=1 origin +refs/tags/*:refs/tags/*
+      # - uses: actions/checkout@v2
+      # - run: git fetch --depth=1 origin +refs/tags/*:refs/tags/*
       - uses: actions/setup-java@v1
         with:
           java-version: 1.8
@@ -15,10 +15,6 @@ jobs:
         run: |
          pwd
          ls
-         mkdir -p /tmp/builds
-         cp /root/actions-playground/iden3mobile.aar /tmp/builds
-         cp /root/actions-playground/pom.xml /tmp/builds
-         cd /tmp/builds
          mvn deploy
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
