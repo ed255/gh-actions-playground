@@ -11,4 +11,3 @@
         </repository>
     </distributionManagement>
 </project>
-<!-- mvn deploy:deploy-file -Dfile=iden3mobile.aar -Durl=https://maven.pkg.github.com/arnaubennassar/gh-actions-playground -DrepositoryId=github -DrepositoryName="GitHub Pages" -Dfiles=iden3mobile-sources.jar -Dtypes=jar -Dclassifiers=sources,tests -DgroupId=com.arnaubennassar.test -DartifactId=testi3 -Dversion=1 -Dpackaging=aar -->
