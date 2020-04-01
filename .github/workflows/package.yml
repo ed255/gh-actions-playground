@@ -28,6 +28,6 @@ jobs:
           java-version: 1.8
       - name: Publish .aar to GitHub Packages
         run: |
-         mvn deploy:deploy-file -Dfile=iden3mobile.aar -Durl=https://maven.pkg.github.com/arnaubennassar/gh-actions-playground -DrepositoryId=github -DrepositoryName="GitHub Pages" -Dfiles=iden3mobile-sources.jar -Dtypes=jar -Dclassifiers=sources -DgroupId=com.arnaubennassar.test -DartifactId=testi3 -Dversion="${{ steps.next_version.outputs.version }}" -Dpackaging=aar
+         mvn deploy:deploy-file -Dfile=iden3mobile.aar -Durl=https://maven.pkg.github.com/arnaubennassar/gh-actions-playground -DrepositoryId=github -DrepositoryName="GitHub Pages" -Dfiles=iden3mobile-sources.jar -Dtypes=jar -Dclassifiers=sources -DgroupId=com.arnaubennassar.test -DartifactId=testi3 -Dversion="${{ steps.next_version.outputs.version}}" -Dpackaging=aar
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
