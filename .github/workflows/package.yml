@@ -13,11 +13,11 @@ jobs:
       env:
         github: ${{secrets.GH_AUTH}}
         infura: ${{secrets.INFURA_TOKEN}}
-      run: cd android && echo $github > iden3coreapi/github.properties && echo $infura > iden3coreapi/infura.properties
+      run: echo $github > android/iden3coreapi/github.properties && echo $infura > android/iden3coreapi/infura.properties
 
 
     - name: run tests
       uses: reactivecircus/android-emulator-runner@v2
       with:
         api-level: 29
-        script: cd android && ./gradlew iden3coreapi:connectedAndroidTest
+        script: cat android/iden3coreapi/github.properties && cd android && ./gradlew iden3coreapi:connectedAndroidTest
