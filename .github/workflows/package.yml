@@ -10,10 +10,7 @@ jobs:
       uses: actions/checkout@v2
     - name: inject-secrets
       id: inject-secrets
-      env:
-        github: ${{secrets.GH_AUTHH}}
-        infura: ${{secrets.INFURA_TOKEN}}
-      run: echo "${{secrets.GH_AUTHH}}" && echo $github > android/iden3coreapi/github.properties && echo $infura > android/iden3coreapi/infura.properties
+      run: echo "${{secrets.GH_AUTH}}" > android/iden3coreapi/github.properties && echo "${{secrets.INFURA_TOKEN}}" > android/iden3coreapi/infura.properties && cat android/iden3coreapi/infura.properties
 
 
     # - name: run tests
