@@ -13,4 +13,4 @@ jobs:
       env:
         github: ${{secrets.GH_AUTH}}
         infura: ${{secrets.INFURA_TOKEN}}
-      run: echo $infura
+      run: echo "foo" && echo $infura && echo "bar"
