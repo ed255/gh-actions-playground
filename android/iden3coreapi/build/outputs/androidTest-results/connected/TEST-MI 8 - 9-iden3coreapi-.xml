@@ -1,11 +1,9 @@
 <?xml version='1.0' encoding='UTF-8' ?>
-<testsuite name="com.iden3.iden3coreapi.GomobileIntegrationTest" tests="1" failures="1" errors="0" skipped="0" time="0.0" timestamp="2020-04-07T16:36:16" hostname="localhost">
+<testsuite name="com.iden3.iden3coreapi.GomobileIntegrationTest" tests="1" failures="0" errors="0" skipped="0" time="64.801" timestamp="2020-04-07T16:49:24" hostname="localhost">
   <properties>
     <property name="device" value="MI 8 - 9" />
     <property name="flavor" value="" />
     <property name="project" value="iden3coreapi" />
   </properties>
-  <testcase name="fullFlow" classname="com.iden3.iden3coreapi.GomobileIntegrationTest" time="11.293">
-    <failure>Test failed to run to completion. Reason: 'Instrumentation run failed due to 'Process crashed.''. Check device logcat for details</failure>
-  </testcase>
+  <testcase name="fullFlow" classname="com.iden3.iden3coreapi.GomobileIntegrationTest" time="64.793" />
 </testsuite>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.iden3.iden3coreapi.ExampleUnitTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-04-07T15:57:03" hostname="naubook" time="0.002">
+<testsuite name="com.iden3.iden3coreapi.ExampleUnitTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-04-07T16:49:50" hostname="naubook" time="0.002">
   <properties/>
   <testcase name="testIden3CoreAPI" classname="com.iden3.iden3coreapi.ExampleUnitTest" time="0.002"/>
   <testcase name="addition_isCorrect" classname="com.iden3.iden3coreapi.ExampleUnitTest" time="0.0"/>
