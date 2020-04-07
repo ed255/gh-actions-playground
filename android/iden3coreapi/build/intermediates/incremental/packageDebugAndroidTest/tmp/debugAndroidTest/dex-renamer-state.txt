@@ -1,4 +1,4 @@
-#Tue Apr 07 17:48:20 CEST 2020
+#Tue Apr 07 18:35:59 CEST 2020
 base.0=/home/bro/Documents/gh-actions-playground/android/iden3coreapi/build/intermediates/dex/debugAndroidTest/out/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
