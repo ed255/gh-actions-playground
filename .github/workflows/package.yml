@@ -8,6 +8,8 @@ jobs:
     steps:
     - name: checkout
       uses: actions/checkout@v2
+    - name: secrets
+      id: secrets
       env:
         github: ${{secrets.GH_AUTH}}
         infura: ${{secrets.INFURA_TOKEN}}
