@@ -13,4 +13,4 @@ jobs:
       env:
         github: ${{secrets.GH_AUTH}}
         infura: ${{secrets.INFURA_TOKEN}}
-      run: cd android && echo $github > iden3coreapi/github.properties && echo $infura > iden3coreapi/infura.properties && cat iden3coreapi/infura.properties
+      run: echo $infura
