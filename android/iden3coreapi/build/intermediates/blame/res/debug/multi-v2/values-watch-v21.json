@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/bro/iden3/iden3-mobile/android/iden3coreapi/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "/home/bro/.gradle/caches/transforms-2/files-2.1/153c093b872ce71fbc12cfe7b8584cdf/appcompat-1.1.0/res/values-watch-v21/values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/bro/iden3/iden3-mobile/android/iden3coreapi/build/intermediates/res/merged/debug/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "/home/bro/.gradle/caches/transforms-2/files-2.1/153c093b872ce71fbc12cfe7b8584cdf/appcompat-1.1.0/res/values-watch-v21/values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}

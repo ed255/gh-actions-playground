@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.iden3:iden3mobile:v0.0.1-beta8@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3a6c4f1d0a09d329f57a19b2e760e15c/jetified-iden3mobile-v0.0.1-beta8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3a6c4f1d0a09d329f57a19b2e760e15c/jetified-iden3mobile-v0.0.1-beta8/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.iden3/iden3mobile/v0.0.1-beta8/f2ce6d7cb16c419676c7014791e249b54d562b47/iden3mobile-v0.0.1-beta8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
