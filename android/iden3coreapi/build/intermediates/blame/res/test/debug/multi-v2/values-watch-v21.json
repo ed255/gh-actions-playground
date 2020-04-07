@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/bro/Documents/gh-actions-playground/android/iden3coreapi/build/intermediates/incremental/mergeDebugUnitTestResources/merged.dir/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "/home/bro/.gradle/caches/transforms-2/files-2.1/138cc7fd7ff24d49eb5586d252b58076/appcompat-1.1.0/res/values-watch-v21/values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}

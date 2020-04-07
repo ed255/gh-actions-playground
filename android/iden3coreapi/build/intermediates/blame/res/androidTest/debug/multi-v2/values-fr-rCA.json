@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/bro/iden3/iden3-mobile/android/iden3coreapi/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-fr-rCA/values-fr-rCA.xml",
+            "outputFile": "/home/bro/Documents/gh-actions-playground/android/iden3coreapi/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-fr-rCA/values-fr-rCA.xml",
             "map": [
                 {
-                    "source": "/home/bro/.gradle/caches/transforms-2/files-2.1/d4e2c990a93746e8625fbcf721f3c4e7/core-1.2.0/res/values-fr-rCA/values-fr-rCA.xml",
+                    "source": "/home/bro/.gradle/caches/transforms-2/files-2.1/8989001a16da563736515f130d20309b/core-1.2.0/res/values-fr-rCA/values-fr-rCA.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/home/bro/.gradle/caches/transforms-2/files-2.1/153c093b872ce71fbc12cfe7b8584cdf/appcompat-1.1.0/res/values-fr-rCA/values-fr-rCA.xml",
+                    "source": "/home/bro/.gradle/caches/transforms-2/files-2.1/138cc7fd7ff24d49eb5586d252b58076/appcompat-1.1.0/res/values-fr-rCA/values-fr-rCA.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
