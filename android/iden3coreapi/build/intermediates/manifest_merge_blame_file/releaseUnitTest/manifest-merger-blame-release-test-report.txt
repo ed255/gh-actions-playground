@@ -3,24 +3,24 @@
 3    package="com.iden3.iden3coreapi.test" >
 4
 5    <uses-sdk
-5-->/home/bro/Documents/gh-actions-playground/android/iden3coreapi/build/intermediates/tmp/manifest/test/release/manifestMerger1815805540145688140.xml:5:5-74
+5-->/home/bro/Documents/gh-actions-playground/android/iden3coreapi/build/intermediates/tmp/manifest/test/release/manifestMerger15359899546906724508.xml:5:5-74
 6        android:minSdkVersion="19"
-6-->/home/bro/Documents/gh-actions-playground/android/iden3coreapi/build/intermediates/tmp/manifest/test/release/manifestMerger1815805540145688140.xml:5:15-41
+6-->/home/bro/Documents/gh-actions-playground/android/iden3coreapi/build/intermediates/tmp/manifest/test/release/manifestMerger15359899546906724508.xml:5:15-41
 7        android:targetSdkVersion="29" />
-7-->/home/bro/Documents/gh-actions-playground/android/iden3coreapi/build/intermediates/tmp/manifest/test/release/manifestMerger1815805540145688140.xml:5:42-71
+7-->/home/bro/Documents/gh-actions-playground/android/iden3coreapi/build/intermediates/tmp/manifest/test/release/manifestMerger15359899546906724508.xml:5:42-71
 8
 9    <instrumentation
-9-->/home/bro/Documents/gh-actions-playground/android/iden3coreapi/build/intermediates/tmp/manifest/test/release/manifestMerger1815805540145688140.xml:11:5-15:77
+9-->/home/bro/Documents/gh-actions-playground/android/iden3coreapi/build/intermediates/tmp/manifest/test/release/manifestMerger15359899546906724508.xml:11:5-15:77
 10        android:name="androidx.test.runner.AndroidJUnitRunner"
-10-->/home/bro/Documents/gh-actions-playground/android/iden3coreapi/build/intermediates/tmp/manifest/test/release/manifestMerger1815805540145688140.xml:11:22-76
+10-->/home/bro/Documents/gh-actions-playground/android/iden3coreapi/build/intermediates/tmp/manifest/test/release/manifestMerger15359899546906724508.xml:11:22-76
 11        android:functionalTest="false"
-11-->/home/bro/Documents/gh-actions-playground/android/iden3coreapi/build/intermediates/tmp/manifest/test/release/manifestMerger1815805540145688140.xml:14:22-52
+11-->/home/bro/Documents/gh-actions-playground/android/iden3coreapi/build/intermediates/tmp/manifest/test/release/manifestMerger15359899546906724508.xml:14:22-52
 12        android:handleProfiling="false"
-12-->/home/bro/Documents/gh-actions-playground/android/iden3coreapi/build/intermediates/tmp/manifest/test/release/manifestMerger1815805540145688140.xml:13:22-53
+12-->/home/bro/Documents/gh-actions-playground/android/iden3coreapi/build/intermediates/tmp/manifest/test/release/manifestMerger15359899546906724508.xml:13:22-53
 13        android:label="Tests for com.iden3.iden3coreapi.test"
-13-->/home/bro/Documents/gh-actions-playground/android/iden3coreapi/build/intermediates/tmp/manifest/test/release/manifestMerger1815805540145688140.xml:15:22-75
+13-->/home/bro/Documents/gh-actions-playground/android/iden3coreapi/build/intermediates/tmp/manifest/test/release/manifestMerger15359899546906724508.xml:15:22-75
 14        android:targetPackage="com.iden3.iden3coreapi.test" />
-14-->/home/bro/Documents/gh-actions-playground/android/iden3coreapi/build/intermediates/tmp/manifest/test/release/manifestMerger1815805540145688140.xml:12:22-73
+14-->/home/bro/Documents/gh-actions-playground/android/iden3coreapi/build/intermediates/tmp/manifest/test/release/manifestMerger15359899546906724508.xml:12:22-73
 15
 16    <uses-permission android:name="android.permission.INTERNET" />
 16-->[__tested_artifact__::iden3coreapi] /home/bro/Documents/gh-actions-playground/android/iden3coreapi/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-67
@@ -30,14 +30,14 @@
 17-->[androidx.test:core:1.2.0] /home/bro/.gradle/caches/transforms-2/files-2.1/26d74d9ff030303fd41445bdf589231a/jetified-core-1.2.0/AndroidManifest.xml:24:22-69
 18
 19    <application
-19-->/home/bro/Documents/gh-actions-playground/android/iden3coreapi/build/intermediates/tmp/manifest/test/release/manifestMerger1815805540145688140.xml:7:5-9:19
+19-->/home/bro/Documents/gh-actions-playground/android/iden3coreapi/build/intermediates/tmp/manifest/test/release/manifestMerger15359899546906724508.xml:7:5-9:19
 20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 20-->[androidx.core:core:1.2.0] /home/bro/.gradle/caches/transforms-2/files-2.1/8989001a16da563736515f130d20309b/core-1.2.0/AndroidManifest.xml:24:18-86
 21        android:debuggable="true" >
-21-->/home/bro/Documents/gh-actions-playground/android/iden3coreapi/build/intermediates/tmp/manifest/test/release/manifestMerger1815805540145688140.xml:7:18-43
+21-->/home/bro/Documents/gh-actions-playground/android/iden3coreapi/build/intermediates/tmp/manifest/test/release/manifestMerger15359899546906724508.xml:7:18-43
 22        <uses-library android:name="android.test.runner" />
-22-->/home/bro/Documents/gh-actions-playground/android/iden3coreapi/build/intermediates/tmp/manifest/test/release/manifestMerger1815805540145688140.xml:8:9-60
-22-->/home/bro/Documents/gh-actions-playground/android/iden3coreapi/build/intermediates/tmp/manifest/test/release/manifestMerger1815805540145688140.xml:8:23-57
+22-->/home/bro/Documents/gh-actions-playground/android/iden3coreapi/build/intermediates/tmp/manifest/test/release/manifestMerger15359899546906724508.xml:8:9-60
+22-->/home/bro/Documents/gh-actions-playground/android/iden3coreapi/build/intermediates/tmp/manifest/test/release/manifestMerger15359899546906724508.xml:8:23-57
 23
 24        <activity
 24-->[androidx.test:core:1.2.0] /home/bro/.gradle/caches/transforms-2/files-2.1/26d74d9ff030303fd41445bdf589231a/jetified-core-1.2.0/AndroidManifest.xml:27:9-33:20
