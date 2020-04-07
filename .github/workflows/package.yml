@@ -1,16 +1,16 @@
 name: Package
 on:
-    push:
-        branches: [ master ]
+  push:
+    branches: [ master ]
 jobs:
-    publish:
-      runs-on: ubuntu-latest
-      steps:
-        - name: checkout
-          uses: actions/checkout@v2
-    
-        - name: run tests
-          uses: reactivecircus/android-emulator-runner@v2
-          with:
-            api-level: 29
-            script: cd android && ./gradlew connectedCheck
+  test:
+    runs-on: macos-latest
+    steps:
+    - name: checkout
+      uses: actions/checkout@v2
+
+    - name: run tests
+      uses: reactivecircus/android-emulator-runner@v2
+      with:
+        api-level: 29
+        script: cd android && ./gradlew connectedCheck
