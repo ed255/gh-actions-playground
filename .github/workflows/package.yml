@@ -12,7 +12,6 @@ jobs:
       id: inject-secrets
       run: echo "${{secrets.GH_AUTH}}" > android/iden3coreapi/github.properties && echo '${{secrets.INFURA_TOKEN}}' > android/iden3coreapi/infura.properties
 
-
     - name: run tests
       uses: reactivecircus/android-emulator-runner@v2
       with:
