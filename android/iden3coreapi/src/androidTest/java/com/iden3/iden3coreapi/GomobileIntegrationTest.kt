@@ -127,7 +127,7 @@ class GomobileIntegrationTest {
             }
             attempts--
             Log.i("fullFlow","WAITING FOR CLAIMS TO BE PROVED.")
-            Thread.sleep(2_000)
+            Thread.sleep(4_000)
         }
         assertEquals(nClaimsPerId*nIdentities, provedClaims)
 

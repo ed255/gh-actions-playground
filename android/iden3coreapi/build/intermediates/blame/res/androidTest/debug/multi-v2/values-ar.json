@@ -4,7 +4,7 @@
             "outputFile": "/home/bro/Documents/gh-actions-playground/android/iden3coreapi/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ar/values-ar.xml",
             "map": [
                 {
-                    "source": "/home/bro/.gradle/caches/transforms-2/files-2.1/8989001a16da563736515f130d20309b/core-1.2.0/res/values-ar/values-ar.xml",
+                    "source": "/home/bro/.gradle/caches/transforms-2/files-2.1/9fcf7e23fa5044e70ea45016031ea5ac/core-1.2.0/res/values-ar/values-ar.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/home/bro/.gradle/caches/transforms-2/files-2.1/138cc7fd7ff24d49eb5586d252b58076/appcompat-1.1.0/res/values-ar/values-ar.xml",
+                    "source": "/home/bro/.gradle/caches/transforms-2/files-2.1/6e9f696cfe225929ea3f1a402aab6a2e/appcompat-1.1.0/res/values-ar/values-ar.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
