@@ -18,7 +18,6 @@ jobs:
       with:
         api-level: 29
         script: |
-          cd android
-          adb logcat GoLog:D fullFlow:D \*:S -v long > log &
-          ./gradlew iden3coreapi:connectedAndroidTest
-          pkill adb && cat log && rm log
+          adb logcat GoLog:D fullFlow:D \*:S -v long > android/logcat.log &
+          cd android && ./gradlew iden3coreapi:connectedAndroidTest
+          pwd && pkill adb && cat logcat.log && rm logcat.log
