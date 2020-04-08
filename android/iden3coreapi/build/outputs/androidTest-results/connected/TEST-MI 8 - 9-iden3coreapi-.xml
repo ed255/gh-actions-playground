@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8' ?>
-<testsuite name="com.iden3.iden3coreapi.GomobileIntegrationTest" tests="1" failures="0" errors="0" skipped="0" time="73.088" timestamp="2020-04-08T10:15:22" hostname="localhost">
+<testsuite name="com.iden3.iden3coreapi.GomobileIntegrationTest" tests="1" failures="0" errors="0" skipped="0" time="73.416" timestamp="2020-04-08T17:16:33" hostname="localhost">
   <properties>
     <property name="device" value="MI 8 - 9" />
     <property name="flavor" value="" />
     <property name="project" value="iden3coreapi" />
   </properties>
-  <testcase name="fullFlow" classname="com.iden3.iden3coreapi.GomobileIntegrationTest" time="73.087" />
+  <testcase name="fullFlow" classname="com.iden3.iden3coreapi.GomobileIntegrationTest" time="73.398" />
 </testsuite>

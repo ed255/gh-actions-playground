@@ -17,5 +17,4 @@ jobs:
       uses: reactivecircus/android-emulator-runner@v2
       with:
         api-level: 29
-        script: |
-          cd android && adb logcat GoLog:D fullFlow:D \*:S -v long > logcat.log & ./gradlew iden3coreapi:connectedAndroidTest ; pkill adb && cat logcat.log && rm logcat.log
+        script: cd android && adb logcat GoLog:D fullFlow:D \*:S -v long > logcat.log & ./gradlew iden3coreapi:connectedAndroidTest ; pkill adb && cat logcat.log && rm logcat.log
