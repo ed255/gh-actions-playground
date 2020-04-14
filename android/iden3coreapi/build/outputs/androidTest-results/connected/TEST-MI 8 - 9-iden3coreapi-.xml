@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.iden3.iden3coreapi.GomobileIntegrationTest" tests="1" failures="0" errors="0" skipped="0" time="92.804" timestamp="2020-04-14T14:39:45" hostname="localhost">
+  <properties>
+    <property name="device" value="MI 8 - 9" />
+    <property name="flavor" value="" />
+    <property name="project" value="iden3coreapi" />
+  </properties>
+  <testcase name="fullFlow" classname="com.iden3.iden3coreapi.GomobileIntegrationTest" time="92.808" />
+</testsuite>
